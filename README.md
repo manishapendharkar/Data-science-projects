@@ -1,1 +1,1 @@
-# OIBSIP
+This repository contains data science projects which are Iris Flower Classification, Sales Prediction Using Python, Unemployement analysis using python where activities are performed using the respective csv file present with the file.
